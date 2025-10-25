@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#22c55e"/></linearGradient></defs>
+  <rect width="1024" height="1024" rx="220" fill="url(#g)"/>
+  <g transform="translate(210,230)"><rect x="0" y="0" rx="40" width="380" height="520" fill="#f8fafc" stroke="#e2e8f0" stroke-width="10"/>
+    <path d="M60 120h240v28H60zM60 210h280v28H60zM60 300h260v28H60zM60 390h280v28H60z" fill="#94a3b8"/></g>
+  <g transform="translate(560,420)"><rect x="-220" y="70" width="440" height="70" rx="20" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="10"/>
+    <rect x="-300" y="42" width="60" height="126" rx="16" fill="#cbd5e1"/>
+    <rect x="-240" y="6" width="72" height="188" rx="18" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="10"/>
+    <rect x="240" y="6" width="72" height="188" rx="18" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="10"/>
+    <rect x="300" y="42" width="60" height="126" rx="16" fill="#cbd5e1"/></g>
+  <text x="512" y="920" text-anchor="middle" font-size="72" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">正能量打卡</text>
+</svg>
